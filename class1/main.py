@@ -27,7 +27,7 @@ if input is not None:
       })
       headers = {
         'Content-Type': 'application/json',
-        'Authorization': 'Bearer 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',
+        'Authorization': 'Bearer XXXX
         'Cookie': '__cf_bm=PFa9tcZnbhBFfNNwzaqB5wAim9Li6AvocTBiPaJjauc-1720357853-1.0.1.1-R2hGlpJCr.ZLsoPAGUiEPHIvQ1LxAm42k.CzBfpzIShpjtzcPu806bhF1avxpecTAJmvyu0Rt_hTB4QjmoHVxQ; _cfuvid=SGx7QkcmyseNdpN0ADUkl5vRFzPWfv.si6SOsUNSDDU-1720357853102-0.0.1.1-604800000'
       }
 
